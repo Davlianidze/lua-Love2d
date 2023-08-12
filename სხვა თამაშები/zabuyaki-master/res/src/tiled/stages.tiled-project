@@ -1,0 +1,10 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "extensionsPath": "extensions",
+    "folders": [
+        "stages"
+    ],
+    "objectTypesFile": "stages/units.xml"
+}

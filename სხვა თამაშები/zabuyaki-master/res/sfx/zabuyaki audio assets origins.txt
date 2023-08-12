@@ -1,0 +1,130 @@
+
+rickAttack:
+the Atribution License
+by plagasul
+source: http://freesound.org/people/plagasul/sounds/78/
+
+rickThrow:
+the Atribution License
+http://freesound.org/people/plagasul/sounds/84/
+
+rickDeath:
+CC0
+by Under7dude
+source: http://freesound.org/people/Under7dude/sounds/163442/
+
+rickJump:
+CC0
+by Christopherderp
+http://freesound.org/people/Christopherderp/sounds/342229/
+
+scream1.wav
+CC0
+by oldedgar
+source: http://freesound.org/people/oldedgar/sounds/131710/
+
+scream2.wav
+CC0
+by oldedgar
+source: http://freesound.org/people/oldedgar/sounds/131710/
+
+
+chaiAttack:
+CC0
+by AbuNijmeh
+Source: http://freesound.org/people/AbuNijmeh/sounds/319104/
+
+chaiJump:
+CC0
+by AbuNijmeh
+Source: http://freesound.org/people/AbuNijmeh/sounds/319104/
+
+chaiThrow:
+CC0
+by AbuNijmeh
+Source: http://freesound.org/people/AbuNijmeh/sounds/319104/
+
+chaiDeath:
+CC0
+by waxsocks
+http://freesound.org/people/waxsocks/sounds/255322/
+
+
+kisaAttack:
+the Atribution License
+by LukeSharples
+http://freesound.org/people/LukeSharples/sounds/209192/
+
+kisaDeath:
+the Atribution License
+by AderuMoro
+http://freesound.org/people/AderuMoro/sounds/213295/
+
+kisaJump:
+the Atribution License
+by LukeSharples
+http://freesound.org/people/LukeSharples/sounds/209191/
+
+kisaThrow:
+the Atribution License
+by LukeSharples
+http://freesound.org/people/LukeSharples/sounds/209189/
+
+
+
+
+gopperAttack*.wav:
+CC0
+by Juhani Junkala
+
+hitHard*.wav:
+CC0
+by Juhani Junkala
+
+hitWeak*.wav:
+CC0
+by Juhani Junkala
+
+hitMedium*.wav:
+CC0
+by Juhani Junkala
+
+
+hitHard*.wav:
+CC0
+by Juhani Junkala
+
+menu*.wav
+CC0
+by Juhani Junkala
+
+pickup*.wav
+CC0
+by Juhani Junkala
+
+
+fallDown:
+
+lifted from the free library "Sonniss.com - GDC - Game Audio Bundle"
+
+whoosh_heavy:
+
+lifted from the free library "Sonniss.com - GDC - Game Audio Bundle"
+
+whooshLight:
+
+lifted from the free library "Sonniss.com - GDC - Game Audio Bundle"
+
+satoffRoar1,2:
+https://www.youtube.com/watch?v=B_1Cfqi4sok
+
+yarAttack, yarDeath, yarJump:
+Sound effects obtained from https://www.zapsplat.com
+
+not yet found sources:
+
+chaiStep
+grab
+kisaStep
+rickStep
+rickThrow
